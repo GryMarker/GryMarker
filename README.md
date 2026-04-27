@@ -33,11 +33,6 @@
 
 ![Andrei's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GryMarker&theme=tokyo-night)
 
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=GryMarker&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
