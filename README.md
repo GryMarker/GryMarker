@@ -49,6 +49,7 @@
 
 ## 📫 Connect with Me
 
-🌐 Portfolio: your-portfolio-link  
-💼 LinkedIn: your-linkedin-link  
-📧 Email: your-email
+💼 LinkedIn: www.linkedin.com/in/andrei-amarles
+
+
+
